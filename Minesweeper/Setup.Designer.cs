@@ -1,4 +1,6 @@
-﻿namespace Minesweeper
+﻿using System.Windows.Forms;
+
+namespace Minesweeper
 {
     partial class Setup
     {
